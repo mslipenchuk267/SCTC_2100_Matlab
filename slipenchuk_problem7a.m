@@ -10,7 +10,7 @@ function slipenchuk_problem7a
 % to produce three interesting programs, named yourfamilyname_problem7a.m,
 % yourfamilyname_problem7b.m, and yourfamilyname_problem7c.m,
 % to be submitted as usual (i.e., email to the course instructor).
-% Each  of  the  three  files  should  run  an  animation  of  Conway’s  Game  of  Life,  with  at  least  two  interesting
+% Each  of  the  three  files  should  run  an  animation  of  Conwayâ€™s  Game  of  Life,  with  at  least  two  interesting
 % objects interacting with each other in interesting ways, in the spirit of 
 % the provided example of a glider gun shooting at a blinker ship.
 % Take the structures from an online resource like the website
@@ -29,7 +29,7 @@ function slipenchuk_problem7a
 %   visual purposes. The volcano's actions are dictated by the bi-gun.
 %   I use multiple twin_bees_shuttle.txt to simulate the citizens of Pompei 
 %   going about their business before the lava disrupts their automation.
-%   I used middleweight_volcano.txt and ants.txt from
+%   I used middleweight_volcano.txt and twin_bees_shuttle.txt from
 %   http://www.radicaleye.com/lifepage/glossary.html.
 %   I created the bi-gun in a .txt myself. I got the design from 
 %   http://www.conwaylife.com/w/index.php?title=Bi-gun.
